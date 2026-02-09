@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2026.02.09 17:51:51.768,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.02.09 17:51:52.000,=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2026.02.09 17:52:42.405,D:\Projects\Programming\CPP\BDS\Console\Algorithms\SolveLinealEquation\SolveLinealEquationPCH1.h=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2026.02.09 17:52:42.427,D:\Projects\Programming\CPP\BDS\Console\Algorithms\SolveLinealEquation\File1.cpp=C:\Users\PC\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>2026.02.09 17:52:42.449,D:\Projects\Programming\CPP\BDS\Console\Algorithms\SolveLinealEquation\SolveLinealEquation.cbproj=C:\Users\PC\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2026.02.09 17:52:51.092,D:\Projects\Programming\CPP\BDS\Console\Algorithms\SolveLinealEquation\SolveLinealEquation.cpp=D:\Projects\Programming\CPP\BDS\Console\Algorithms\SolveLinealEquation\File1.cpp</Transaction>
+    <Transaction>2026.02.09 17:52:53.987,D:\Projects\Programming\CPP\BDS\Console\Algorithms\SolveLinealEquation\SolveLinealEquation.cbproj=D:\Projects\Programming\CPP\BDS\Console\Algorithms\SolveLinealEquation\SolveLinealEquation.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
